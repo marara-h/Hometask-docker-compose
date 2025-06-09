@@ -36,3 +36,5 @@ networks:
 
 volumes: 
   mongodb_data:
+  volumes: 
+  mongodb_data:
